@@ -1,0 +1,26 @@
+# temp #
+temp/
+
+# work #
+work/
+
+# log #
+###################
+logs/
+
+# Eclipse Project #
+###################
+.metadata/
+.settings/
+.classpath
+.project
+
+# Mac OS #
+###################
+.DS_Store
+
+# Intellij #
+/.idea
+*.iws
+*.iml
+*.ipr
